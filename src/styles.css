@@ -1,0 +1,21 @@
+.heading{
+    background-color: antiquewhite;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(10, 10, 177);
+    font-size: large;
+}
+.para{
+    color: black;
+}
+
+.checkbox{
+background-color:rgb(220, 241, 248);
+width: 200%;
+height: 102%;
+margin-top:-7%;
+
+}
+.company{
+    background-color:white;
+}
